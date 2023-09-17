@@ -1,0 +1,16 @@
+body{
+    background-image:url(benz\ back.avif);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    top: 0%;
+    bottom: 0%;
+}
+.nav1{
+    position: relative;
+    left: 60rem;
+    top: -2.75rem;
+    color: aliceblue;
+    font-size: 25px;    
+}
